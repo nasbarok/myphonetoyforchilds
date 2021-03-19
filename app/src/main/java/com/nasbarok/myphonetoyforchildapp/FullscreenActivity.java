@@ -92,6 +92,7 @@ public class FullscreenActivity extends AppCompatActivity {
 
     /*
      * AlertDialog for BootPage
+     * commit first version brach
      */
 
     private AlertDialog.Builder builder;
