@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Phone Toy for child app</string>
+
+    <string name="welcome_head">Welcome to the app that turns your phone into a child\'s toy</string>
+    <string name="welcome_comment1">attention the use of a telephone for children is not recommended</string>
+    <string name="validate_welcome">OK</string>
+    <string name="option_head">Application settings</string>
+    <string name="option_take_time">Game time</string>
+    <string name="toolbox_games">Toolbox</string>
+
+</resources>

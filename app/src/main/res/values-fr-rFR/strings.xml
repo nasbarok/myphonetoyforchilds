@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mon Téléphone Jouet pour enfant</string>
+
+    <string name="welcome_head">Bienvenu dans l\'application qui transforme votre télephone en jouet pour enfant</string>
+    <string name="welcome_comment1">attention l\'utilisation d\'un telephone pour les enfants est déconseillé</string>
+    <string name="validate_welcome">OK</string>
+    <string name="option_head">Paramétrage de l\'application</string>
+    <string name="option_take_time">Temps de jeu</string>
+    <string name="toolbox_games">Boite a outils</string>
+
+</resources>
